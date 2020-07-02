@@ -17,3 +17,6 @@ verify by command:
 $ transmission-remote -n admin:password --blocklist-update
 localhost:9091/transmission/rpc/ responded: "success"
 ```
+
+Travis-ci -
+https://travis-ci.org/github/sahsu/transmission-blocklist
