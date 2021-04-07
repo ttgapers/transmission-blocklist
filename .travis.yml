@@ -10,5 +10,5 @@ deploy:
   file: blocklist.gz
   skip_cleanup: true
   overwrite: true
-  on:
-    tags: true
+  # on:
+    # tags: true
