@@ -1,6 +1,6 @@
 # blocklist for transmission
 
-[![Build Status](https://travis-ci.org/ttgapers/transmission-blocklist.svg?branch=master)](https://travis-ci.org/ttgapers/transmission-blocklist)
+[![Build Status](https://travis-ci.com/ttgapers/transmission-blocklist.svg?branch=master)](https://travis-ci.com/ttgapers/transmission-blocklist)
 
 This repo will help you do daily update blocklists, you can check https://gist.github.com/shmup/29566c5268569069c256 for detail and use `https://github.com/sahsu/transmission-blocklist/releases/latest/download/blocklist.gz` in your setting.
 
@@ -19,4 +19,4 @@ localhost:9091/transmission/rpc/ responded: "success"
 ```
 
 Travis-ci -
-https://travis-ci.org/github/ttgapers/transmission-blocklist
+https://travis-ci.com/github/ttgapers/transmission-blocklist
