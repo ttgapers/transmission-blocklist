@@ -10,5 +10,10 @@ deploy:
   file: blocklist.gz
   skip_cleanup: true
   overwrite: true
-  # on:
-    # tags: true
+  on:
+    tags: false
+    all_branches: true
+branches:
+  except:
+    -/^*-v[0-9]/
+    
